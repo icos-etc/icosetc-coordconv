@@ -1,0 +1,6 @@
+ID	group	date_used	input_format	n_formats	ref_id	ref_rule	ref_lat	ref_lon	north_ref	magdec_applied	in_east_dist	in_north_dist	in_distance_polar	in_angle_polar	in_lat	in_lon	east_dist	north_dist	distance_polar	angle_polar	calc_lat	calc_lon	format_disagreement_m	ne_polar_disagreement_m	status	db_EC_LOCATION_CALC_LAT	db_EC_LOCATION_CALC_LONG	db_EC_SA_NORTH_MAGDEC	diff_vs_db_m
+7001	GRP_EC	2019-01-01	ne	1	TOWER:8001	tower	45.5	9.5	Geographic	0	2	1					2	1	2.24	63.435	45.500009	9.50002559			ok				
+7002	GRP_EC	2023-01-01	ne	1	TOWER:8002	tower	45.50005	9.5001	Magnetic	3.306	2	1					2.05	0.88	2.24	66.741	45.50005794	9.50012628			ok			2.5	
+7003	GRP_EC		ne	1	TOWER:8002	tower	45.50005	9.5001	Geographic	0	0.5	0.5					0.5	0.5	0.71	45	45.5000545	9.5001064			ok				
+7004	GRP_EC		ne	1	TOWER:8002	tower	45.50005	9.5001	Magnetic		1	1													skipped: magnetic record without date				
+7005	GRP_EC	2023-01-01		0	TOWER:8002	tower	45.50005	9.5001	Geographic	0															no coordinates				

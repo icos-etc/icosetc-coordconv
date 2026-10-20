@@ -1,0 +1,8 @@
+ID	group	date_used	input_format	n_formats	ref_id	ref_rule	ref_lat	ref_lon	north_ref	magdec_applied	in_east_dist	in_north_dist	in_distance_polar	in_angle_polar	in_lat	in_lon	east_dist	north_dist	distance_polar	angle_polar	calc_lat	calc_lon	format_disagreement_m	ne_polar_disagreement_m	status	db_TREE_LOCATION_CALC_LAT	db_TREE_LOCATION_CALC_LONG	diff_vs_db_m
+6001	GRP_TREE	2020-07-01	ne	1	CP_01	plot	45.5003	9.5002		0	3	4					3	4	5	36.87	45.50033599	9.50023838			ok			
+6002	GRP_TREE	2020-07-01	polar	1	CP_02	plot	45.49982005	9.50038384		0			6	90			6	0	6	90	45.49982005	9.5004606			ok			
+6003	GRP_TREE	2020-07-01	ne	1	TOWER:8001	tower_fallback	45.5	9.5		0	50	50					50	50	70.71	45	45.50044987	9.50063973			ok			
+6004	GRP_TREE	2020-07-01	ne	1	CP_09	unknown_plot					1	1													skipped: unknown reference plot			
+6005	GRP_TREE	2021-06-01	polar	1	SP-II_01-01	plot	45.5012	9.5014		0			2	180			0	-2	2	180	45.501182	9.5014			ok			
+6006	GRP_TREE	2020-07-01		0	CP_03	plot	45.49969811	9.49972137		0															no coordinates			
+6007	GRP_TREE	2020-07-01	polar	2	CP_01	plot	45.5003	9.5002		0	3	4	8	90			8	0	8	90	45.5003	9.50030236	6.4	6.4	ok			

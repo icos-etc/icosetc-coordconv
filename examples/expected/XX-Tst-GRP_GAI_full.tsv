@@ -1,0 +1,5 @@
+ID	group	date_used	input_format	n_formats	ref_id	ref_rule	ref_lat	ref_lon	north_ref	magdec_applied	in_east_dist	in_north_dist	in_distance_polar	in_angle_polar	in_lat	in_lon	east_dist	north_dist	distance_polar	angle_polar	calc_lat	calc_lon	format_disagreement_m	ne_polar_disagreement_m	status	gai_method	instrument_pair	pair_flag	pair_detail	db_GAI_LOCATION_CALC_LAT	db_GAI_LOCATION_CALC_LONG	diff_vs_db_m
+5001	GRP_GAI	2021-07-15	ne	1	CP_01	plot	45.5003	9.5002		0	1	1					1	1	1.41	45	45.500309	9.50021279			ok	DHP	DHP					
+5002	GRP_GAI	2021-07-15	polar	1	CP_02	plot	45.49982005	9.50038384		0			3	270			-3	0	3	270	45.49982005	9.50034545			ok	SUNSCAN	CEPT					
+5003	GRP_GAI	2021-07-15	polar	1	SP-I_02	plot	45.50053984	9.49867034		0			10	0			0	10	10	0	45.50062982	9.49867034			ok	DHP	DHP					
+5004	GRP_GAI	2021-07-15	ne	1	CP_01	plot	45.5003	9.5002		0	2	-3					2	-3	3.61	146.31	45.50027301	9.50022559			ok	SUNSCAN	CEPT					

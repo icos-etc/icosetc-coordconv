@@ -1,0 +1,4 @@
+ID	group	date_used	input_format	n_formats	ref_id	ref_rule	ref_lat	ref_lon	north_ref	magdec_applied	in_east_dist	in_north_dist	in_distance_polar	in_angle_polar	in_lat	in_lon	east_dist	north_dist	distance_polar	angle_polar	calc_lat	calc_lon	format_disagreement_m	ne_polar_disagreement_m	status	db_SPPS_LOCATION_CALC_LAT	db_SPPS_LOCATION_CALC_LONG	diff_vs_db_m
+4001	GRP_SPPS	2021-07-01	polar	1	CP_01	plot	45.5003	9.5002		0			12	135			8.49	-8.49	12	135	45.50022365	9.50030857			ok			
+4002	GRP_SPPS	2021-07-01	polar	1	TOWER:8001	tower_fallback	45.5	9.5		0			20	0			0	20	20	0	45.50017995	9.5			ok			
+4003	GRP_SPPS	2021-07-01	latlong	1	CP_02	plot	45.49982005	9.50038384		0					45.5001	9.5003	-6.55	31.11	31.8	348.108	45.5001	9.5003			ok			

@@ -1,0 +1,5 @@
+site	group	ID	flag	detail
+XX-Tst	GRP_PLOT	9010	LARGE_SHIFT	shift_m=23.47; D_applied=0.000; previous=api
+XX-Tst	GRP_EC	7004	NOT_COMPUTED	skipped: magnetic record without date
+XX-Tst	GRP_TREE	6007	FORMAT_DISAGREEMENT	disagreement_m=6.40; format_used=polar
+XX-Tst	GRP_TREE	6004	NOT_COMPUTED	skipped: unknown reference plot

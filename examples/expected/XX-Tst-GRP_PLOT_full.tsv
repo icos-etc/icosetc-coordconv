@@ -1,0 +1,11 @@
+ID	PLOT_ID	plot_type	group	date_used	input_format	n_formats	ref_id	ref_rule	ref_lat	ref_lon	north_ref	magdec_applied	in_east_dist	in_north_dist	in_distance_polar	in_angle_polar	in_lat	in_lon	east_dist	north_dist	distance_polar	angle_polar	calc_lat	calc_lon	format_disagreement_m	ne_polar_disagreement_m	status
+9001	TOWER	TOWER	GRP_PLOT		latlong	1	TOWER:8002	tower	45.50005	9.5001		0					45.5	9.5	-7.82	-5.56	9.59	234.587	45.5	9.5			ok
+9002	CP_01	CP	GRP_PLOT	2020-06-01	latlong	1	TOWER:8001	tower	45.5	9.5		0					45.5003	9.5002	15.63	33.34	36.82	25.118	45.5003	9.5002			ok
+9003	CP_02	CP	GRP_PLOT	2020-06-01	ne	1	TOWER:8001	tower	45.5	9.5	Geographic	0	30	-20					30	-20	36.06	123.69	45.49982005	9.50038384			ok
+9004	CP_03	CP	GRP_PLOT	2020-06-01	polar	1	TOWER:8001	tower	45.5	9.5	Magnetic	2.986			40	210			-21.78	-33.55	40	212.986	45.49969811	9.49972137			ok
+9005	SP-I_01	SP-I	GRP_PLOT	2021-04-15	ne	1	TOWER:8001	tower	45.5	9.5	Magnetic	3.093	100	50					102.55	44.53	111.8	66.528	45.50040066	9.50131213			ok
+9006	SP-I_02	SP-I	GRP_PLOT	2021-04-15	polar	1	TOWER:8001	tower	45.5	9.5	Geographic	0			120	300			-103.92	60	120	300	45.50053984	9.49867034			ok
+9007	SP-II_01-01	SP-II	GRP_PLOT	2021-04-15	latlong	1	SP-I_01	parent SP-I	45.50040066	9.50131213		0					45.5012	9.5014	6.87	88.84	89.1	4.421	45.5012	9.5014			ok
+9008	SP-II_01-02	SP-II	GRP_PLOT	2021-04-15	ne	1	SP-I_01	parent SP-I	45.50040066	9.50131213	Geographic	0	5	-3					5	-3	5.83	120.964	45.50037367	9.5013761			ok
+9009	SP-II_02-01	SP-II	GRP_PLOT	2021-07-01	polar	1	SP-I_02	parent SP-I	45.50053984	9.49867034	Magnetic	3.119			8	45			5.96	5.34	8	48.119	45.5005879	9.49874654			ok
+9010	SP-II_02-02	SP-II	GRP_PLOT	2021-04-15	ne	2	SP-I_02	parent SP-I	45.50053984	9.49867034	Geographic	0	-4	6			45.5004	9.4985	-4	6	7.21	326.31	45.50059383	9.49861916	23.47		ok

@@ -1,0 +1,12 @@
+# Local-only material (never committed)
+legacy/
+output/
+dev/
+config/settings_local.R
+
+# R / RStudio artefacts
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+example_output/

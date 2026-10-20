@@ -1,0 +1,12 @@
+ID	FEAT	LAT	LON	PLOT_EASTWARD_DIST	PLOT_NORTHWARD_DIST	PLOT_DISTANCE_POLAR	PLOT_ANGLE_POLAR	PLOT_RECT_X	PLOT_RECT_Y	PLOT_RECT_DIR	PLOT_NORTHREF	PLOT_DATE	PLOT_COMMENT
+9001	TOWER	45.50000	9.50000										tower row of the plot table
+9002	CP_01	45.50030	9.50020									20200601	submitted as lat/long
+9003	CP_02			30	-20						Geographic	20200601	N/E, true north
+9004	CP_03					40	210	10	20	30	Magnetic	20200601	polar, magnetic, rectangular 10 x 20 m
+9005	SP-I_01			100	50						Magnetic	20210415	N/E, magnetic
+9006	SP-I_02					120	300				Geographic	20210415	polar, true north
+9007	SP-II_01-01	45.50120	9.50140									20210415	lat/long
+9008	SP-II_01-02			5	-3						Geographic	20210415	N/E from parent SP-I_01
+9009	SP-II_02-01					8	45				Magnetic	2021	polar, magnetic, year-only date
+9010	SP-II_02-02	45.50040	9.49850	-4	6						Geographic	20210415	both lat/long and N/E (N/E wins)
+File download success													
